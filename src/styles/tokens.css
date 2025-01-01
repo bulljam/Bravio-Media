@@ -1,0 +1,40 @@
+:root {
+  --color-ink: #111111;
+  --color-cream: #fff7e8;
+  --color-paper: #fffdf8;
+  --color-yellow: #ffd84d;
+  --color-coral: #ff7a59;
+  --color-blue: #7dd3fc;
+  --color-green: #cbff72;
+  --color-white: #ffffff;
+  --color-muted: #433f39;
+
+  --font-display: "Space Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-body: "Space Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --border-thick: 4px;
+  --border-medium: 3px;
+  --radius-card: 24px;
+  --radius-pill: 999px;
+  --shadow-offset: 8px;
+  --shadow-offset-sm: 5px;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --space-9: 6rem;
+
+  --text-xs: 0.875rem;
+  --text-sm: 1rem;
+  --text-base: 1.125rem;
+  --text-lg: 1.35rem;
+  --text-xl: clamp(1.75rem, 3vw, 2.75rem);
+  --text-2xl: clamp(2.8rem, 7vw, 5.8rem);
+
+  --container-width: min(1120px, calc(100vw - 2rem));
+}
