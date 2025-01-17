@@ -36,7 +36,7 @@
 
 .site-header {
   position: sticky;
-  top: 0;
+  top: var(--space-3);
   z-index: 10;
   padding: var(--space-4) 0;
   backdrop-filter: saturate(140%) blur(8px);
