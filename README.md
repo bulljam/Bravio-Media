@@ -6,9 +6,9 @@ Creative agency landing page built with React, TypeScript, and Vite.
 
 ## Overview
 
-Bravio Media is a bold single-page marketing site for a creative agency. The interface uses thick black borders, hard shadows, flat high-contrast color blocks, oversized typography, tactile buttons, and slightly asymmetric layouts.
+Bravio Media is a single-page marketing site for a creative agency.
 
-The site is structured as a reusable React component system rather than a single monolithic page, with content driven from typed local data objects.
+The project is structured as a reusable React component system with content driven from typed local data objects.
 
 ## Features
 
@@ -18,11 +18,11 @@ The site is structured as a reusable React component system rather than a single
 - Accessible FAQ accordion
 - Reusable UI primitives for buttons, cards, badges, and section headings
 - Typed content model for services, case studies, testimonials, process steps, FAQ items, and social links
-- Custom social icons that match the site design system
+- Custom inline social icons
 
 ## Tech Stack
 
-- React 19
+- React
 - TypeScript
 - Vite
 - Plain CSS
@@ -42,14 +42,6 @@ The site is structured as a reusable React component system rather than a single
 - FAQ
 - Final CTA
 - Footer
-
-## Design System
-
-- Thick borders and hard offset shadows
-- Warm, playful palette with strong contrast
-- Space Grotesk for both display and body text
-- Tactile interaction states with hover/press feedback
-- Slight asymmetry to avoid generic landing-page composition
 
 ## Project Structure
 
