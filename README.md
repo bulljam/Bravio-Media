@@ -2,7 +2,13 @@
 
 Creative agency landing page built with React, TypeScript, and Vite.
 
-![Bravio Media homepage preview](src/assets/home.png)
+## Project Demo
+
+<p>Click the preview below to watch the demo. Use Ctrl + Click or open in a new tab if needed.</p>
+
+<a href="https://youtu.be/5fIN2q4tkxE">
+  <img src="https://img.youtube.com/vi/5fIN2q4tkxE/maxresdefault.jpg" alt="Project Demo" width="100%" />
+</a>
 
 ## Overview
 
